@@ -1,0 +1,7 @@
+Smith Bob 1990 300 3
+Brown Jody 1970	175
+Green Judy 1994 275 2
+Clark Nancy 1996 300 1
+Davis Bill 1980 100
+Barton Sue 1995 100 4
+Young Sam 1985 200	
